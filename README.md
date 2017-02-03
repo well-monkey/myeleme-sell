@@ -1,7 +1,8 @@
 # myeleme
 
 > this is commercial project
-
+# information
+  这个是用vue 实现的模仿饿了么组件。现在只做了heade组件。具体的几个组件还在不断更新之中。
 ## Build Setup
 
 ``` bash
