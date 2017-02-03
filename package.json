@@ -10,7 +10,10 @@
     "lint": "eslint --ext .js,.vue src"
   },
   "dependencies": {
-    "vue": "^2.1.0"
+    "stylus": "^0.54.5",
+    "vue": "^2.1.0",
+    "vue-loader": "^10.2.3",
+    "vue-resource": "^1.1.2"
   },
   "devDependencies": {
     "autoprefixer": "^6.4.0",
