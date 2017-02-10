@@ -33,9 +33,9 @@
     created: function () {
       this.$http.get('/api/seller').then((response) => {
         response = response.body;
-        console.log(response.data);
+        // console.log(response.data);
         if (response.errno === SUCCESS_OK) {
-          console.log(this.seller);
+          // console.log(this.seller);
           this.seller = response.data;
         }
       }, (response) => {
