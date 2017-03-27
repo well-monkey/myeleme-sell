@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "vue": "^2.1.0",
-    "better-scroll":"0.1.7"
+    "better-scroll": "0.1.7"
   },
   "devDependencies": {
     "autoprefixer": "^6.4.0",
@@ -45,9 +45,11 @@
     "ora": "^0.3.0",
     "semver": "^5.3.0",
     "shelljs": "^0.7.4",
+    "stylus": "^0.54.5",
     "stylus-loader": "^2.1.1",
     "url-loader": "^0.5.7",
     "vue-loader": "^10.0.0",
+    "vue-resource": "^1.2.1",
     "vue-router": "^2.2.0",
     "vue-style-loader": "^1.0.0",
     "vue-template-compiler": "^2.1.0",
